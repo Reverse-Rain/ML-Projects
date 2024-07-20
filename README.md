@@ -1,6 +1,7 @@
-The project involves predicting the risk of a heart attack using machine learning techniques based on a set of medical and demographic variables. Here is a detailed breakdown of the project requirements:
-
 ### Project Name: Prediction of Heart Attack
+
+
+The project involves predicting the risk of a heart attack using machine learning techniques based on a set of medical and demographic variables. Here is a detailed breakdown of the project requirements:
 
 ### Objective
 To develop a machine learning model that predicts the risk of a heart attack based on patient data. The model aims to assist healthcare professionals in evaluating patient risk for timely medical intervention and lifestyle changes.
