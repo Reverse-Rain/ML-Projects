@@ -29,11 +29,11 @@ The dataset includes the following patient information:
 2. **PowerPoint Presentation**: A presentation summarizing the project, methodology, and results.
 3. **Video Explanation**: A video explaining the tasks performed and the insights gained during the prediction of heart attack risk.
 
-The provided Excel file likely contains the dataset needed for this project. I can help you with the following steps:
+The provided Excel file likely contains the dataset needed for this project.
+
 1. **Exploratory Data Analysis (EDA)**: To understand the dataset and identify any missing values or outliers.
 2. **Data Preprocessing**: To prepare the data for model training.
 3. **Model Development**: To build and train various machine learning models.
 4. **Model Evaluation**: To assess the performance of the models.
 5. **Results Interpretation**: To derive insights from the model predictions.
 
-Would you like to proceed with these steps? If so, please let me know which specific part you would like to start with.
